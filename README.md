@@ -16,3 +16,4 @@
   
   - 此外，还可以点击界面上的"<"和">"播放上一首或下一首。
 
+- 已将JAR文件导出，下载打开即可运行该软件： [JAR file](https://github.com/lianggaoquan/MusicBox/tree/master/JAR/MusicBox.jar)
