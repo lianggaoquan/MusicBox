@@ -4,7 +4,7 @@
 - MusicBox 带有一个简易的搜索引擎，需要搜索歌曲时，只需输入歌名的一部分即可实现查找。详细见下图。
 
 - 软件介绍
-  -界面：
+  - 界面：
   
   ![image](https://github.com/lianggaoquan/MusicBox/raw/master/asset/01.JPG)
 
