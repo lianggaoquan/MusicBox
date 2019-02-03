@@ -3,12 +3,15 @@
 
 - 软件介绍
   -界面：
+  
   ![image](https://github.com/lianggaoquan/MusicBox/tree/master/asset/01.JPG)
 
   - 下拉可以查看目录下所有歌曲（注意是wav格式):
+  
   ![image](https://github.com/lianggaoquan/MusicBox/tree/master/asset/02.jpg)
 
   - 搜索音乐时，只需输入歌名的一部分，比如下面，要搜索《青空行》这首歌，不需要输入完全的歌名，只输入“青”字并按Enter键即可播放
+  
   ![image](https://github.com/lianggaoquan/MusicBox/tree/master/asset/03.JPG)
   
   - 此外，还可以点击界面上的"<"和">"播放上一首或下一首。
