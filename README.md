@@ -1,3 +1,5 @@
+![image](https://img.shields.io/badge/build-passing-green.svg)  ![image](https://img.shields.io/badge/release-v1.0-blue.svg)
+
 - MusicBox 是一个用Java实现的 ***wav*** 格式音乐播放器，把要播放的wav格式音乐放入路径 D:/music 中，打开该软件即可读入。
 - MusicBox 带有一个简易的搜索引擎，需要搜索歌曲时，只需输入歌名的一部分即可实现查找。详细见下图。
 
